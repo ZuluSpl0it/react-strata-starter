@@ -6,6 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn install`
+
+Installs project dependencies.\
+The error "yarn ERROR: [Errno 2] No such file or directory" means you have the wrong yarn on your system.\
+[Solution link](https://stackoverflow.com/a/47680012)
+
+The error "The engine "node" is incompatible with this module" means you have to update nodejs.\
+[Solution link](https://stackoverflow.com/a/67300542)
+
+
 ### `yarn start`
 
 Runs the app in the development mode.\
